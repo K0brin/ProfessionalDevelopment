@@ -21,8 +21,8 @@
   * Specialization
 
     * Higher priority
-     - AI Programmer
-     - Gameplay Programmer
+      - AI Programmer
+      - Gameplay Programmer
     * Lower Priority
-     - Graphics
-     - Network / Online
+      - Graphics
+      - Network / Online
