@@ -52,4 +52,5 @@
 
 # Resume
 [Resume Word Doc](./Nlundy_GameplayProgrammer_Resume.pdf)
+
 [Resume Word Doc](./Nlundy_GameplayProgrammer_Resume.docx)
