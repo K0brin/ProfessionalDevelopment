@@ -3,7 +3,7 @@
 
     - Unity
     - C#
-    - Gameplay programming
+    - Player Interactions
 
   * Studio Types
     
