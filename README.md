@@ -19,8 +19,9 @@
     - Indie
       
   * Specialization
-
+    
     * Higher priority
+      - Game Systems/ Economies
       - AI Programmer
       - Gameplay Programmer
     * Lower Priority
