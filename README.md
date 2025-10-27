@@ -3,7 +3,13 @@
 
     - Unity
     - C#
+    - Unreal Engine 4
     - Player Interactions
+
+  * Weaknesses
+
+    * Due to lack of experience 
+    - C++
 
   * Studio Types
     
