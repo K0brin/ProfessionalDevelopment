@@ -9,7 +9,7 @@
   * Weaknesses
 
     * Due to lack of experience 
-    - C++
+      - C++
 
   * Studio Types
     
