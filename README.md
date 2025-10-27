@@ -19,8 +19,10 @@
     - Indie
       
   * Specialization
-    
-    - Gameplay Programmer
-    - AI Programmer
-    - Graphics
-    - Network / Online
+
+    * Higher priority
+     - AI Programmer
+     - Gameplay Programmer
+    * Lower Priority
+     - Graphics
+     - Network / Online
