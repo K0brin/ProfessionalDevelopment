@@ -5,3 +5,7 @@
 [Epic Games Gameplay System Intern](https://www.epicgames.com/site/en-US/careers/jobs/5686204004)
 * Focuses on more technical aspect of game design, and improving code
 * Work on C++ proficiency, more experience with Unreal Engine 5
+
+[Activision Game Engineering Intern](https://careers.activision.com/job/R025908/2026-US-Summer-Internships-Game-Engineering)
+* I can use my experience animating in the past to my advantage
+* Work on C++ proficiency, refresh knowledge of animation
