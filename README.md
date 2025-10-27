@@ -20,10 +20,10 @@
       
   ### Specialization
     
-    #### Higher priority
+    * Higher priority
       - Game Systems/ Economies
       - AI Programmer
       - Gameplay Programmer
-    #### Lower Priority
+    * Lower Priority
       - Graphics
       - Network / Online
