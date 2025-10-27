@@ -14,7 +14,7 @@
       
   * Specialization
     
-    - Gamepley Programmer
+    - Gameplay Programmer
     - AI Programmer
     - Graphics
     - Network / Online
