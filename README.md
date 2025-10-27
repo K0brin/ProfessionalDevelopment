@@ -51,4 +51,4 @@
 * Work on C++ proficiency, and data structure / complex systems
 
 # Resume
-[Resume World Doc](./Nlundy_GameplauProgrammer_Resume.docx)
+[Resume Word Doc](./Nlundy_GameplayProgrammer_Resume.docx))
