@@ -4,6 +4,15 @@
     - Unity
     - C#
     - Gameplay programming
-   
-  * Weakness's
+
+  * Studio Types
     
+    - AAA
+    - Indie
+      
+  * Specialization
+    
+    - Gamepley Programmer
+    - AI Programmer
+    - Graphics
+    - Network / Online
