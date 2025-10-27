@@ -44,9 +44,11 @@
 
 [Activision Game Engineering Intern](https://careers.activision.com/job/R025908/2026-US-Summer-Internships-Game-Engineering)
 * I can use my experience animating in the past to my advantage
-* Work on C++ proficiency, refresh knowledge of animation 
-
+* Work on C++ proficiency, refresh knowledge of animation
 
 [Electronic Arts - EA - Software Engineer Intern](https://www.indeed.com/viewjob?jk=4d69a685307a7553&from=shareddesktop_copy)
 * High level programming that can give me good knowledge
 * Work on C++ proficiency, and data structure / complex systems
+
+# Resume
+[Resume World Doc](./Nlundy_GameplauProgrammer_Resume.docx)
