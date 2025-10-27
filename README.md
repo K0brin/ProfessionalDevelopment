@@ -1,29 +1,29 @@
 # Self Accessment
-  * Strengths
+  ### Strengths
 
     - Unity
     - C#
     - Unreal Engine 4
     - Player Interactions
 
-  * Weaknesses
+  ### Weaknesses
 
-    * Due to lack of experience 
+    #### Due to lack of experience 
       - C++
 
-  * Studio Types
+  ### Studio Types
     
     - AAA
        * Santa Monica Studios
        * Insomniac Games
     - Indie
       
-  * Specialization
+  ### Specialization
     
-    * Higher priority
+    #### Higher priority
       - Game Systems/ Economies
       - AI Programmer
       - Gameplay Programmer
-    * Lower Priority
+    #### Lower Priority
       - Graphics
       - Network / Online
