@@ -1,10 +1,10 @@
 # Self Accessment
   ### Strengths
   
-   - Unity
-      - C#
-      - Unreal Engine 4
-      - Player Interactions
+  - Unity
+  - C#
+  - Unreal Engine 4
+  - Player Interactions
 
   ### Weaknesses
   
