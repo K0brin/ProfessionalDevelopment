@@ -8,6 +8,8 @@
   * Studio Types
     
     - AAA
+       * Santa Monica Studios
+       * Insomniac Games
     - Indie
       
   * Specialization
