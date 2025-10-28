@@ -58,8 +58,3 @@ _______________________________________
 * High level programming that can give me good knowledge
 * Work on C++ proficiency, and data structure / complex systems
 _______________________________________
-
-# Resume
-[Resume Preview/PDF](./Nlundy_GameplayProgrammer_Resume.pdf)
-
-[Resume Word Doc](./Nlundy_GameplayProgrammer_Resume.docx)
