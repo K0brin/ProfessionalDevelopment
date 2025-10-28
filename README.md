@@ -59,7 +59,7 @@ _________________________________________
 * Work on C++ proficiency, refresh knowledge of animation
 _______________________________________
 
-[Electronic Arts - EA - Software Engineer Intern](https://www.indeed.com/viewjob?jk=4d69a685307a7553&from=shareddesktop_copy)
+[Electronic Arts - EA - Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210926?jobPipeline=Indeed)
 * High level programming that can give me good knowledge
 * Work on C++ proficiency, and data structure / complex systems
 _______________________________________
