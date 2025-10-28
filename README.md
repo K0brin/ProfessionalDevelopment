@@ -60,6 +60,7 @@ _________________________________________
 _______________________________________
 
 [Electronic Arts - EA - Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210926?jobPipeline=Indeed)
+Applied
 * High level programming that can give me good knowledge
 * Work on C++ proficiency, and data structure / complex systems
 
