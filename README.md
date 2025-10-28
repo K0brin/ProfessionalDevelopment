@@ -22,11 +22,11 @@
   
   * Higher priority
       - Game Systems/ Economies
-      - AI Programmer
-      - Gameplay Programmer
-  * Lower Priority
       - Graphics
       - Network / Online
+  * Lower Priority
+      - AI Programmer
+      - Gameplay Programmer
 
 # Internships
 
