@@ -49,6 +49,9 @@ _______________________________________
 * Interest in game design an polishing game systems
 * work on C++ proficiency; not neccesarry - learn introductory python; Understand fundamental Game Design Principles
 
+
+[Systems Design Resume](./Nlundy_SystemsDesign_Resume.pdf)
+
 [Activision Game Engineering Intern](https://careers.activision.com/job/R025908/2026-US-Summer-Internships-Game-Engineering)
 * I can use my experience animating in the past to my advantage
 * Work on C++ proficiency, refresh knowledge of animation
