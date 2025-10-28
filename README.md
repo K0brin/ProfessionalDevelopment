@@ -46,6 +46,7 @@ __________________________________________
 _______________________________________
 
 [Activision Systems Design Internship](https://careers.activision.com/job/R025957/2026-US-Summer-Internships-Game-Design)
+Applied
 * Interest in game design an polishing game systems
 * work on C++ proficiency; not neccesarry - learn introductory python; Understand fundamental Game Design Principles
 
