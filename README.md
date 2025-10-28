@@ -63,5 +63,5 @@ _______________________________________
 * High level programming that can give me good knowledge
 * Work on C++ proficiency, and data structure / complex systems
 
-[Software Engineer Resume](./Nlundy_SystemsDesign_Resume.pdf)
+[Software Engineer Resume](./Nlundy_SoftwareEngineer_Resume.pdf)
 _______________________________________
