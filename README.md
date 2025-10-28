@@ -38,6 +38,8 @@
 * Focuses on more technical aspect of game design, and improving code
 * Work on C++ proficiency, more experience with Unreal Engine 5
 
+[Gameplay System Resume](./Nlundy_Nlundy_GameplaySystems_Resume.docx)
+
 [Activision Multiplayer Game Design Internship](https://careers.activision.com/job/R025957/2026-US-Summer-Internships-Game-Design)
 * Interest in game design an polishing game systems
 * work on C++ proficiency; not neccesarry - learn introductory python; Understand fundamental Game Design Principles
