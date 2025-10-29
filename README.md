@@ -22,8 +22,8 @@
   
   * Higher priority
       - Game Systems/ Economies (Design)
+      - Gameplay Programmer (Gameplay loops & systems)
       - AI Programmer
-      - Gameplay Programmer
   * Lower Priority
       - Graphics
       - Network / Online
