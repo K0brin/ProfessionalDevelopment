@@ -21,12 +21,12 @@
   ### Specialization
   
   * Higher priority
-      - Game Systems/ Economies
-      - Graphics
-      - Network / Online
-  * Lower Priority
+      - Game Systems/ Economies (Design)
       - AI Programmer
       - Gameplay Programmer
+  * Lower Priority
+      - Graphics
+      - Network / Online
 
 # Internships
 
